@@ -1,5 +1,6 @@
 00000# Distill — Pure knowledge, every class
 
+# Distill — Pure knowledge, for each and every class
 > An AI-powered classroom assessment tool by Inceptez.  
 > Paste a transcript → get a concept map + adaptive quiz + Dr. Priya's interview debrief.
 
@@ -19,6 +20,8 @@ Distill turns any Teams / Zoom / Google Meet transcript into a complete learning
 5. **Exports results** — WhatsApp-ready report with score, verdict, and study recommendations
 
 All processing happens locally. No data leaves your machine when using Ollama or LM Studio !!!
+
+Just a testing 
 
 ---
 
@@ -619,15 +622,19 @@ Distill accepts any text input with instructor speech. No specific format requir
 
 Minimum 100 characters. There is no maximum, the map-reduce pipeline handles transcripts of any length.
 
+This also testing by Shobana
+
+=======
 This also serves as a guid for PR - Pull requests: 
 - Feature update : feature/<somefeatureYouadd>
 - bugfix : bugfix/fix-login-button
 - document Update: docs/update-readme
 ---
+This is a testing line
+## License
+=======
 
-## Licensex
-
-MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
+MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez
 
 
 Trying to add some doc
