@@ -614,12 +614,15 @@ Distill accepts any text input with instructor speech. No specific format requir
 
 Minimum 100 characters. There is no maximum, the map-reduce pipeline handles transcripts of any length.
 
+This also serves as a guid for PR - Pull requests: 
+- Feature update : feature/<somefeatureYouadd>
+- bugfix : bugfix/fix-login-button
+- document Update: docs/update-readme
 ---
 
-This also serves the following
-feature : feature/<repo_name>
-bugfixes : bugfixes/<repo_name>
-
-## License
+## Licensex
 
 MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
+
+Trying to add some doc
+#Testing line - Sabari
