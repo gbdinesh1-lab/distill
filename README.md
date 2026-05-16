@@ -616,6 +616,10 @@ Minimum 100 characters. There is no maximum, the map-reduce pipeline handles tra
 
 ---
 
+This also serves :
+feature : feature/<repo_name>
+bugfixes : bugfixes/<repo_name>
+
 ## License
 
 MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
